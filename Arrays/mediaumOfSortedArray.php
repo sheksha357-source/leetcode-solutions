@@ -1,4 +1,4 @@
-<?phpclass Solution {
+<?php
 
    
     function findMedianSortedArrays($nums1, $nums2) {
